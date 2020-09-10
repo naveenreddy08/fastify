@@ -1,0 +1,10 @@
+f JS = require('fast-json-stringify)
+stringify = FJS({
+type:'object',
+properties:
+{
+  "id":"1"
+  "firstname":"Navee"
+  "lastname":"Reddy"
+}
+})
